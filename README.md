@@ -1,8 +1,11 @@
 # Live link
 https://smart-ecom-store.netlify.app/
 
-# Smart E-com Store
+## Smart E-com Store
 This is an ANGULAR E-commerce starter kit app that displays a list of products and you can add to cart. You can as well checkout on the cart page.
+
+## Udacity Nano Degree
+It is based of a Udacity Senior Angular Developer nano degree
 
 ## Running the Project
 
